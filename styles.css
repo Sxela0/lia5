@@ -1,5 +1,5 @@
 body {
-    background: url('/pics/bg.jpg') no-repeat center center fixed;
+    background: url('/bg.jpg') no-repeat center center fixed;
     background-size: cover;
     font-family: Arial, sans-serif;
     margin: 0;
@@ -37,7 +37,7 @@ h1 {
     margin: 20px auto;
     width: 175px; /* Increased by 1.25 times */
     height: 175px; /* Increased by 1.25 times */
-    background: url('/pics/pfp.jpg') no-repeat center center;
+    background: url('/pfp.jpg') no-repeat center center;
     background-size: cover;
     border-radius: 50%;
     box-shadow: 0 0 15px 5px rgba(255, 192, 203, 0.7);
